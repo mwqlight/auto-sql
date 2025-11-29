@@ -1,0 +1,2 @@
+# auto-sql
+auto sql
